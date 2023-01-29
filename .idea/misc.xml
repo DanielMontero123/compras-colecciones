@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appDeber/app/src/main/res/layout/activity_busquedas.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appDeber/app/src/main/res/layout/activity_colecciones.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appDeber/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appDeber/app/src/main/res/layout/activity_opciones.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appDeber/app/src/main/res/layout/activity_reservas.xml" value="0.23505434782608695" />
+        <entry key="..\:/appDeber/app/src/main/res/drawable/boton_fondo.xml" value="0.2703125" />
+        <entry key="..\:/appDeber/app/src/main/res/drawable/boton_off.xml" value="0.2703125" />
+        <entry key="..\:/appDeber/app/src/main/res/drawable/boton_on.xml" value="0.2703125" />
+        <entry key="..\:/appDeber/app/src/main/res/drawable/esquinas_redondeadas.xml" value="0.2703125" />
+        <entry key="..\:/appDeber/app/src/main/res/drawable/fondo_principal.xml" value="0.2703125" />
+        <entry key="..\:/appDeber/app/src/main/res/layout/activity_busquedas.xml" value="0.23958333333333334" />
+        <entry key="..\:/appDeber/app/src/main/res/layout/activity_colecciones.xml" value="0.25416666666666665" />
+        <entry key="..\:/appDeber/app/src/main/res/layout/activity_detalle_coleccion.xml" value="0.25416666666666665" />
+        <entry key="..\:/appDeber/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/appDeber/app/src/main/res/layout/activity_nueva_coleccion.xml" value="0.25416666666666665" />
+        <entry key="..\:/appDeber/app/src/main/res/layout/activity_opciones.xml" value="0.25416666666666665" />
+        <entry key="..\:/appDeber/app/src/main/res/layout/activity_reservas.xml" value="0.25416666666666665" />
+        <entry key="..\:/appDeber/app/src/main/res/layout/fila_coleccion.xml" value="0.25416666666666665" />
+        <entry key="..\:/appDeber/app/src/main/res/layout/fila_personalizada.xml" value="0.25416666666666665" />
+        <entry key="..\:/appDeber/app/src/main/res/layout/fragment_colecciones_dos.xml" value="0.23958333333333334" />
+        <entry key="..\:/appDeber/app/src/main/res/layout/fragment_colecciones_tres.xml" value="0.23958333333333334" />
+        <entry key="..\:/appDeber/app/src/main/res/layout/fragment_colecciones_uno.xml" value="0.23958333333333334" />
+        <entry key="..\:/appDeber/app/src/main/res/menu/accion_guardar_coleccion.xml" value="0.25416666666666665" />
+        <entry key="..\:/appDeber/app/src/main/res/menu/acciones_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/appDeber/app/src/main/res/menu/menu_superior.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

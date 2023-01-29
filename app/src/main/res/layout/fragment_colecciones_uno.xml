@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EFD5D5"
+    android:orientation="vertical"
+    tools:context=".FragmentColeccionesUno">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="IRON MAN 1/6 (PELÍCULA ENDGAME)"
+        android:textSize="20sp"
+        android:textStyle="bold|italic" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="196dp"
+        android:layout_height="107dp"
+        android:src="@drawable/ironman" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DARTH VADER 1/4 (PELÍCULA STAR WARS VI)"
+        android:textSize="20sp"
+        android:textStyle="bold|italic" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="166dp"
+        android:layout_height="112dp"
+        android:src="@drawable/darthvader" />
+</LinearLayout>

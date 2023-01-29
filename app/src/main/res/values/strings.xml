@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Compra de Colecciones</string>
+    <string name="txtRegistro">Registro</string>
+    <string name="txtLogin">Login</string>
+    <string name="btnLogin">Iniciar Sesión</string>
+    <string name="txtRecuerdame">Recuérdame</string>
+    <string name="btnColecciones">Colecciones</string>
+    <string name="btnReservas">Pre Ordenar</string>
+    <string name="opCerrarSesion">Cerrar Sesión</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
